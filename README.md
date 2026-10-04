@@ -18,7 +18,7 @@ The purpose of this repository is to document my methodology, enumeration techni
 
 | Machine | OS | Difficulty | Initial Access | Privilege Escalation |
 |---------|----|------------|----------------|----------------------|
-| Coming soon | — | — | — | — |
+| Twiggy | Linux | Fundamental | — | — |
 
 ## 🧰 Tools
 
