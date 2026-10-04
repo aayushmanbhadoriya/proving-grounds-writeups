@@ -4,7 +4,7 @@ A collection of penetration testing and offensive security writeups based on mac
 
 The purpose of this repository is to document my methodology, enumeration techniques, exploitation process, privilege escalation techniques, and lessons learned while preparing for professional penetration testing certifications.
 
-## Objectives
+## 🎯 Objectives
 
 - Improve practical penetration testing skills
 - Develop a structured enumeration methodology
@@ -14,13 +14,13 @@ The purpose of this repository is to document my methodology, enumeration techni
 - Prepare for OSCP-style penetration testing
 - Build a public offensive security portfolio
 
-## Machines
+## 🗂️ Machines
 
 | Machine | OS | Difficulty | Initial Access | Privilege Escalation |
 |---------|----|------------|----------------|----------------------|
 | Coming soon | — | — | — | — |
 
-## Tools
+## 🧰 Tools
 
 Some of the tools used throughout the writeups:
 
@@ -40,7 +40,7 @@ Some of the tools used throughout the writeups:
 - Hashcat
 - John the Ripper
 
-Methodology
+## 📚 Methodology
 
 The writeups generally follow this workflow:
 
@@ -52,12 +52,12 @@ The writeups generally follow this workflow:
 6. Post-Exploitation
 7. Lessons Learned
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 These writeups are intended for educational purposes and are based on legally authorized lab environments.
 
 Do not use the techniques described here against systems without explicit authorization.
 
-## Progress
+## 📈 Progress
 
 This repository is continuously updated as I work through additional machines and improve my penetration testing methodology.
